@@ -1,6 +1,7 @@
 # SOC Report
 
 Comprehensive Security Operations Center report template for GitHub repositories.
+<img width="244" height="89" alt="image" src="https://github.com/user-attachments/assets/28e6966c-9a57-4a9f-a429-e26b9e21cb7c" />
 
 ## Overview
 This README explains the structure and usage of the SOC Report included in this repository. It is designed for analysts, engineers, and security managers who need a clear, repeatable reporting format.
